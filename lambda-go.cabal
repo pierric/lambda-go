@@ -1,12 +1,12 @@
-name:                go
+name:                lambda-go
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/pierric/go#readme
+homepage:            https://github.com/pierric/lambda-go
 license:             BSD3
 license-file:        LICENSE
 author:              Jiasen Wu
-maintainer:          example@example.com
+maintainer:          jiasenwu@hotmail.com
 copyright:           2017 Jiasen Wu
 category:            AI
 build-type:          Simple
